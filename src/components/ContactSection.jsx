@@ -73,7 +73,7 @@ export default function ContactSection() {
                     href="tel:+917294810782"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +917294810782
+                    +91(XXXXXXX782)
                   </a>
                 </div>
               </div>
