@@ -26,8 +26,9 @@ const projects = [
       "Real-Time Weather Forecast App A sleek and responsive weather application built with React.It fetches real-time weather data using the OpenWeatherMap API. Displays temperature, humidity, weather for any location worldwide.",
     image: "/projects/project2.png",
     tags: ["React"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl:
+      "https://react-weather-ppqczj24e-shyamsundar-kumars-projects.vercel.app/",
+    githubUrl: "https://github.com/ShyamsundarK18/react-weather-app",
   },
   {
     id: 3,
