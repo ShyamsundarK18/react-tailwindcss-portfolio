@@ -4,22 +4,28 @@ import { cn } from "../lib/utils";
 const skills = [
   // Frontend
   { name: "HTML/CSS", level: 95, category: "frontend" },
-  { name: "JavaScript", level: 90, category: "frontend" },
-  { name: "React", level: 90, category: "frontend" },
+  { name: "JavaScript (ES6+)", level: 90, category: "frontend" },
+  { name: "React.js", level: 90, category: "frontend" },
   { name: "Bootstrap", level: 85, category: "frontend" },
   { name: "Tailwind CSS", level: 90, category: "frontend" },
   { name: "Material UI", level: 85, category: "frontend" },
+  { name: "Responsive Design", level: 90, category: "frontend" },
 
   // Backend
   { name: "Node.js", level: 80, category: "backend" },
   { name: "Express.js", level: 75, category: "backend" },
-  { name: "MongoDB", level: 70, category: "backend" },
-  { name: "SQL", level: 80, category: "backend" },
+  { name: "MongoDB (Atlas)", level: 70, category: "backend" },
+  { name: "SQL / MySQL", level: 80, category: "backend" },
+  { name: "REST API Development", level: 85, category: "backend" },
+  { name: "Authentication (JWT, bcrypt)", level: 85, category: "backend" },
 
-  // Tools
+  // Tools & Deployment
   { name: "Git/GitHub", level: 80, category: "tools" },
-  // { name: "Docker", level: 70, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
+  { name: "Render (Backend Hosting)", level: 75, category: "tools" },
+  { name: "Vercel (Frontend Hosting)", level: 80, category: "tools" },
+  { name: "Postman / API Testing", level: 80, category: "tools" },
+  { name: "Environment Variables (.env)", level: 85, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];

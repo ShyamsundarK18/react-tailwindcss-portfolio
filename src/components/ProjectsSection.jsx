@@ -3,6 +3,26 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "InvestIQ",
+    description:
+      "Built a full-stack stock trading platform with separate React apps for Landing/Auth and Dashboard, integrated with Node.js + Express backend and MongoDB Atlas.",
+    image: "/projects/project5.png", // replace with your project image path
+    tags: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT Auth",
+      "Bootstrap",
+      "Material UI",
+      "Vite",
+    ],
+    demoUrl: "https://investiq-ten.vercel.app/", // replace with actual deployed URL
+    githubUrl: "https://github.com/ShyamsundarK18/zerodha-Clone-Project", // replace with your repo link
+  },
+
+  {
+    id: 1,
     title: "WanderLust",
     description:
       "Developed a full-stack web application, a type of booking platform inspired by Airbnb",

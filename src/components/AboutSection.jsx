@@ -19,7 +19,7 @@ export default function AboutSection() {
               With a solid foundation in JavaScript, HTML, CSS, Node.js,
               Express, SQL, and MongoDB, I thrive on creating responsive,
               secure, and user-friendly web applications. Currently pursuing a
-              B.Tech in Computer Science & Engineering (CGPA 9.13) at
+              B.Tech in Computer Science & Engineering (CGPA 9.08) at
               Rabindranath Tagore University in Bhopal, I've designed full-stack
               solutions powered by Node.js, Express, and MongoDB—backed by
               robust authentication, media handling, and mapping features.
@@ -42,7 +42,7 @@ export default function AboutSection() {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1TDxPksxB9wMhfvkMNlH5Wi4lAiEIIl4j/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1o54BUAP4Ye4PQRF4hJth_1wTUD1AdTLp/view?usp=drive_link"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV

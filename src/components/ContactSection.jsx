@@ -41,7 +41,7 @@ export default function ContactSection() {
           you. I'm always open to exploring new ideas and partnerships.
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+        <div className="flex justify-center grid-cols-1 md:grid-cols-2 gap-12">
           <div className="space-y-8">
             <h3 className="text-2xl font-semibold mb-6">
               {" "}
@@ -99,20 +99,11 @@ export default function ContactSection() {
                 >
                   <Linkedin />
                 </a>
-                {/* <a href="#" target="_blank">
-                  <Twitter />
-                </a> */}
-                {/* <a href="#" target="_blank">
-                  <Instagram />
-                </a>
-                <a href="#" target="_blank">
-                  <Twitch />
-                </a> */}
               </div>
             </div>
           </div>
 
-          <div
+          {/* <div
             className="bg-card p-8 rounded-lg shadow-xs"
             onSubmit={handleSubmit}
           >
@@ -183,7 +174,7 @@ export default function ContactSection() {
                 <Send size={16} />
               </button>
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

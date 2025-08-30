@@ -21,12 +21,16 @@ export default function HeroSection() {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            A full-stack web developer based in Bhopal and currently completing
-            a B.Tech in Computer Science & Engineering (CGPA 9.13) at
-            Rabindranath Tagore University. I specialize in JavaScript, HTML,
-            CSS, Node.js, Express, React.js, SQL, and MongoDB. My recent work
-            includes Wanderlust, an Airbnb-style booking platform with secure
-            authentication, Cloudinary uploads, and Mapbox-powered maps.
+            Full-stack web developer from Bhopal, currently pursuing a B.Tech in
+            Computer Science & Engineering (CGPA: 9.08) at Rabindranath Tagore
+            University. Skilled in JavaScript, React.js, Node.js, Express,
+            MongoDB, SQL, HTML, and CSS, with expertise in building secure and
+            scalable web applications. <br /> <br />
+            Recently built InvestIQ, a full-stack stock trading platform
+            featuring secure JWT authentication, automated fund allocation, and
+            real-time portfolio updates (holdings, orders, funds, positions).
+            Also developed Wanderlust, an Airbnb-style booking platform with
+            Cloudinary image uploads and Mapbox-powered geolocation.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
